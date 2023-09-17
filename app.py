@@ -6,4 +6,4 @@ def substraction(a,b):
     return a-b 
 
 def division(a,b):
-    return ab 
+    return a/b
